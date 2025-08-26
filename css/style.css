@@ -1,0 +1,24 @@
+.div1 h1{
+    color: tomato;
+    background-color: blanchedalmond;
+    font-size: 50px;
+    border: 1px dotted rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.div1 p{
+    color: brown;
+    background-color: rgb(203, 233, 233);
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
+.inp [type="password"]{
+    border: 5px dotted red;
+}
+.inp [type="email"]{
+    background-color: rgb(200, 100, 100);
+    padding: 5px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 3px;
+    margin: 0px 10px 0px 5px;
+}
